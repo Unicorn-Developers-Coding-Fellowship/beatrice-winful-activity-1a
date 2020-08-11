@@ -1,0 +1,39 @@
+/*body{
+    margin: 0px;
+    padding: 0px;
+    background-color: coral;
+}
+*/
+h1 {
+    background-color: rgb(167, 26, 26);
+    text-align: center;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+.list {
+    background-color: coral;
+}
+
+.image {
+    background-image: url(https://www.incimages.com/uploaded_files/image/1920x1080/getty_500740897_200013331653767347294_333325.jpg);
+    margin-top:30px ;
+    width: 100%;
+    height: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;    
+}
+
+section ul li {
+    font-weight: bold;
+    display: inline-block;
+    list-style: none;
+}
+
+section ul li :hover{
+
+color: rgb(167, 26, 26);
+border: 2px solid white;
+
+
+}
+
